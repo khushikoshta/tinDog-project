@@ -105,8 +105,8 @@ h1, h2, h3, h4, h5, h6{      /*combining selector*/
 }
 
 .testimonial-image{
-    width : 90px;
-    height: 90px;
+    width : 110px;
+    height: 110px;
     border-radius: 100%;
     margin: 20px;
 }
@@ -122,8 +122,8 @@ h1, h2, h3, h4, h5, h6{      /*combining selector*/
 }
 
 .press-logo{
-    width : 70px;
-     height: 70px;
+    width : 90px;
+     height: 90px;
     margin : 20px 20px 50px;
 }
 
